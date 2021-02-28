@@ -11,7 +11,7 @@ defaults:
   run:
     working-directory: packages/marketing
 
-jobs:
+ jobs:
   build:
     runs-on: ubuntu-latest
 
